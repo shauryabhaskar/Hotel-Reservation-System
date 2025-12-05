@@ -18,7 +18,7 @@ A lightweight Java console application that simulates a hotel reservation flow. 
 
 ---
 
-## 🔎 Project overview (from the code)
+## 🔎 Project overview 
 
 - Package: `proj1`  
 - Main entry: `Main` (menu & user interaction)  
@@ -29,11 +29,15 @@ A lightweight Java console application that simulates a hotel reservation flow. 
 ---
 
 🚀 Example session
+
+
 --- Hotel Reservation System ---
 1. View Available Rooms
 2. Make a Reservation
 3. View Bookings
 4. Exit
+
+   
 Enter your choice: 1
 
 Room 101 [Deluxe] - Rs. 5000.0 - Available
